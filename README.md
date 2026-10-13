@@ -20,3 +20,5 @@ python app.py
 ```
 
 Luego abrir http://127.0.0.1:8050 en el navegador.
+
+Cambio para parte 4 de Taller 2
